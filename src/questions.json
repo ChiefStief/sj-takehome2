@@ -1,0 +1,120 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "text": "What does HTML stand for?",
+      "answers": [
+        {
+          "id": "1",
+          "text": "Hyperlinks and Text Markup Language"
+        },
+        {
+          "id": "2",
+          "text": "Home Tool Markup Language"
+        },
+        {
+          "id": "3",
+          "text": "HyperText Markup Language"
+        }
+      ],
+      "correctAnswerId": "3"
+    },
+    {
+      "id": "2",
+      "text": "Who makes the Web Standards?",
+      "answers": [
+        {
+          "id": "1",
+          "text": "Google"
+        },
+        {
+          "id": "2",
+          "text": "IBM"
+        },
+        {
+          "id": "3",
+          "text": "The World Wide Web Consortium"
+        },
+        {
+          "id": "4",
+          "text": "Mozilla"
+        },
+        {
+          "id": "5",
+          "text": "Microsoft"
+        }
+      ],
+      "correctAnswerId": "3"
+    },
+    {
+      "id": "3",
+      "text": "What does CSS stand for?",
+      "answers": [
+        {
+          "id": "1",
+          "text": "Creative Style Sheets"
+        },
+        {
+          "id": "2",
+          "text": "Cascading Style Sheets"
+        },
+        {
+          "id": "3",
+          "text": "Computer Style Sheets"
+        },
+        {
+          "id": "4",
+          "text": "Colorful Style Sheets"
+        }
+      ],
+      "correctAnswerId": "2"
+    },
+    {
+      "id": "4",
+      "text": "Choose the correct HTML element for the largest heading",
+      "answers": [
+        {
+          "id": "1",
+          "text": "<h1>"
+        },
+        {
+          "id": "2",
+          "text": "<head>"
+        },
+        {
+          "id": "3",
+          "text": "<h6>"
+        },
+        {
+          "id": "4",
+          "text": "<big>"
+        }
+      ],
+      "correctAnswerId": "1"
+    },
+    {
+      "id": "5",
+      "text": "What data binding interpolation is commonly known as “Mustache” syntax?",
+      "answers": [
+        {
+          "id": "1",
+          "text": "[]"
+        },
+        {
+          "id": "2",
+          "text": "v-model"
+        },
+        {
+          "id": "3",
+          "text": "v-on"
+        },
+        {
+          "id": "4",
+          "text": "{{}}"
+        }
+      ],
+      "correctAnswerId": "4"
+    }
+  ]
+}
+
